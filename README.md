@@ -65,6 +65,7 @@ The analysis addresses the following questions:
 - [Chat GPT](https://chatgpt.com/) - I used this source when I found myself getting stuck in certain aspects of this project.
 
 
-
+### Author :    Owen Coughlan
+### Email :     g00439345@atu.ie
 
 
