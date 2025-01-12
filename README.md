@@ -21,7 +21,7 @@ This repository contains the following files:
 
 ## Requirements
 
-To run the analysis, I ensured the following packages were installed:
+To run the analysis, I ensured the following packages were necessary:
 
 - Python
 - Pandas
@@ -45,9 +45,9 @@ The analysis addresses the following questions:
 2. **Exploratory Data Analysis (EDA)**:
 
 - Summary statistics for wind speed, temperature, and rainfall.
-- Visualizations for wind speed distribution, time-series trends, and monthly averages.
+- Visualisations for wind speed distribution, time-series trends, and monthly averages.
 
-3. **Visualization**:
+3. **Visualisation**:
 
 - Histograms to represent wind speed distribution.
 - Time-series plots to visualize trends.
