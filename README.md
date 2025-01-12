@@ -9,7 +9,7 @@ This repository contains the following files:
 1. **Jupyter Notebook**:
 
    - Contains the Python code used for data analysis and visualization.
-   - Steps include data cleaning, exploratory data analysis (EDA), and statistical summarization.
+   - Steps include data cleaning, exploratory data analysis (EDA), and statistical summarisation.
 
 2. **Dataset**:
 
