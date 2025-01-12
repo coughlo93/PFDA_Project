@@ -62,6 +62,7 @@ The analysis addresses the following questions:
 - [Real Python](https://realpython.com/)
 - [Python Cheat Sheet](https://acrobat.adobe.com/id/urn:aaid:sc:EU:f0f818bf-f5f5-469d-a9c9-9ef5370367e9)
 - [Data Cleaning - Datacamp](https://www.datacamp.com/tutorial/guide-to-data-cleaning-in-python)
+- [Skip Rows](https://realpython.com/pandas-read-write-files/)
 - [Chat GPT](https://chatgpt.com/) - I used this source when I found myself getting stuck in certain aspects of this project.
 
 
